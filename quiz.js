@@ -13,7 +13,8 @@ function clickhandler(){
        }
        index=index+1;
    }
-   output.innerText="your score is"+score;
+   
+   output.innerText="your score is  "+ score;
 
 }
 
