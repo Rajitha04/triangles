@@ -12,7 +12,11 @@ body{
     margin-top: 2rem;
     background-color: black;
     color: white;
+    max-width: 10%;
 
+}
+nav{
+    margin-right: 2rem;
 }
 .output{
     margin-top: 1rem;
@@ -31,3 +35,4 @@ body{
     background-color: black;
     color:white;
 }
+
