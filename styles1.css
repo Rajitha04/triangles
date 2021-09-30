@@ -10,6 +10,8 @@ body{
     color: white;
     border-radius: 0.5rem;
     padding: 0.5rem;
+    margin: auto;
+    margin-top: 0.5rem;
 }
 nav{
     margin-right: 2rem;
